@@ -131,6 +131,11 @@
     color:#83762c;
   }
 
+  .red{
+    background-color: red;
+    color:white;
+  }
+
   /* .opac{
     height: 100vh;
     width:100vw;
